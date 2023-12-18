@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Ua_dem_icon/",
+  base: "/Ua_dem_icon",
   plugins: [react()],
 });
