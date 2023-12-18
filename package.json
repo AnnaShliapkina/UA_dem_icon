@@ -6,7 +6,7 @@
   "scripts": {
     "start": "vite --open",
     "start-local": "vite --config ../../vite.config./",
-    "build": "vite build && xcopy /s /y \"src\\data\\*.*\" \"dist\\data\"",
+    "build": "vite build ",
     "preview": "vite preview ",
     "copy-data": "xcopy /s /y \"src\\data\\*.*\" \"dist\\data\""
   },
